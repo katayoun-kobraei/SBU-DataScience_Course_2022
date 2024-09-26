@@ -1,3 +1,7 @@
+Here’s a revised README that incorporates the additional information about your dataset, along with some restructuring for clarity:
+
+---
+
 # EDA & Data Visualization Assignment
 
 ## Overview
@@ -5,19 +9,27 @@ This assignment focuses on exploratory data analysis (EDA) and data visualizatio
 
 ## Objectives
 1. **Data Cleaning**: 
-   - I Removed outliers and handled null values effectively.
-   - Then I ensured the dataset was in a suitable format for analysis.
+   - Removed outliers and handled null values effectively.
+   - Ensured the dataset was in a suitable format for analysis.
 
 2. **Exploratory Data Analysis (EDA)**:
-   - I performed a thorough analysis of the cleaned data to uncover trends, correlations, and insights related to the pandemic.
-   - I utilized complex visualizations to represent findings.
+   - Performed a thorough analysis of the cleaned data to uncover trends, correlations, and insights related to the pandemic.
+   - Utilized complex visualizations to represent findings.
 
 3. **Creative Visualization**:
-   - We develop innovative visualizations that go beyond basic charts and graphs.
-   - We use various tools and techniques to illustrate patterns in the data.
+   - Developed innovative visualizations that go beyond basic charts and graphs.
+   - Used various tools and techniques to illustrate patterns in the data.
 
-## Data
-- You can download the dataset from the provided link: [Download Data](#)
+## Dataset : COVID-19 Dataset
+**Warning**: Their GitHub datasets are no longer updated since 19 August 2024. 
+
+You can access the CSV version of the COVID-19 dataset via Our World in Data's data catalog: [COVID-19 Dataset CSV](https://catalog.ourworldindata.org/garden/covid/latest/compact/compact.csv).
+
+### Project Structure
+The project contains two independent directories:
+
+- **public/data**: Contains the final datasets for individuals interested in consuming the data and understanding all the caveats about it and its metrics.
+- **scripts**: Contains all the code and intermediate files to produce the final dataset, aimed at those interested in contributing to the project or gaining insight into our internal technical processes.
 
 ## Recommended Resources
 For inspiration and guidance on visualization techniques, consider exploring:
@@ -25,8 +37,11 @@ For inspiration and guidance on visualization techniques, consider exploring:
 2. [Data-to-Viz](https://www.data-to-viz.com/)
 
 ## Notes
-- The emphasis was on the creativity in your visualizations and analysis.
-- We should consider new and innovative ways to represent the data that could provide deeper insights.
+- The emphasis was on creativity in your visualizations and analysis.
+- Consider new and innovative ways to represent the data that could provide deeper insights.
+
+## Contribute
+Thanks for considering contributing to this project! A good place to start is our contribution guideline.
 
 ## Contact Information
 For any questions or further clarification, please reach out via comment on this repository.
