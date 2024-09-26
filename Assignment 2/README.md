@@ -1,7 +1,3 @@
-Here’s a revised README that incorporates the additional information about your dataset, along with some restructuring for clarity:
-
----
-
 # EDA & Data Visualization Assignment
 
 ## Overview
